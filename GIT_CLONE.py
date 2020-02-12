@@ -49,8 +49,8 @@ def url_make(name, para_set, que_set, date_set):
             date_set[2] = str(para_set[2])
 
 
-username = "yeongbin123" # input("Your name here : ")
-token = "dfd2fe71b58f73ee77137c659096a89589b27378" # input("Your token here : ")
+username = input("Your name here : ")
+token = input("Your token here : ")
 
 gh_session = requests.Session()
 gh_session.auth = (username, token)
