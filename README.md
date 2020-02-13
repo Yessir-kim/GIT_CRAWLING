@@ -21,11 +21,9 @@ First, a <strong>"requests"</strong> library should be installed.
 
 Next, run the program.
 
-<img src="images/starting.PNG" alt="Image Error" width="1000">
 Enter the your github ID and Token. Token can get from follow path.<br /> 
 <strong>Path : settings -> Developer settings -> Personal access tokens</strong>
 
-<img src="images/condition.PNG" alt="Image Error" width="1000">
 Then, Set a condition that you want to search. You must place space unconditionally between characters.<br />
 <strong>Example input list</strong> <br />
 <ul>
@@ -34,5 +32,3 @@ Then, Set a condition that you want to search. You must place space unconditiona
   <li>6&nbsp&nbsp<60</li> 
   <li>3&nbsp&nbsp2010-10-06 2017-04-05</li> 
 </ul>
-
-
