@@ -28,9 +28,11 @@ Enter the your github ID and Token. Token can get from follow path.<br />
 <img src="images/condition.png" alt="Image Error" width="200">
 Then, Set a condition that you want to search. <br />
 <strong>Example input</strong> <br />
-1. 1 java <br />
-2. 2 <2009-02-13 <br />
-3. 6 <60 <br />
-4. 3 2010-10-06 2017-04-05 <br />
+<ol>
+  <li>1 java</li>
+  <li>2 <2009-02-13</li> 
+  <li>6 <60</li> 
+  <li>3 2010-10-06 2017-04-05</li> 
+</ol>
 
 
