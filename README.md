@@ -26,13 +26,13 @@ Enter the your github ID and Token. Token can get from follow path.<br />
 <strong>Path : settings -> Developer settings -> Personal access tokens</strong>
 
 <img src="images/condition.png" alt="Image Error" width="200">
-Then, Set a condition that you want to search. <br />
-<strong>Example input</strong> <br />
-<ol>
+Then, Set a condition that you want to search. You must place space unconditionally between characters.<br />
+<strong>Example input list</strong> <br />
+<ul>
   <li>1 java</li>
   <li>2 <2009-02-13</li> 
   <li>6 <60</li> 
   <li>3 2010-10-06 2017-04-05</li> 
-</ol>
+</ul>
 
 
