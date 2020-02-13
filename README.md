@@ -26,8 +26,8 @@ Enter the your github ID and Token. Token can get from follow path.
 > <strong>settings -> Developer settings -> Personal access tokens page.</strong>
 
 <img src="images/condition.png" alt="Image Error" width="200">
-Then, Set a condition that you want to search.
-<strong>Example input</strong> 
+Then, Set a condition that you want to search.<br />
+<strong>Example input</strong> <br />
 > 1 java
 > 2 <2009-02-13
 > 6 <60
