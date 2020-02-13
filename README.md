@@ -29,10 +29,10 @@ Enter the your github ID and Token. Token can get from follow path.<br />
 Then, Set a condition that you want to search. You must place space unconditionally between characters.<br />
 <strong>Example input list</strong> <br />
 <ul>
-  <li>1<space>java</li>
-  <li>2<space><2009-02-13</li> 
-  <li>6<space><60</li> 
-  <li>3<space>2010-10-06 2017-04-05</li> 
+  <li>1depth=3java</li>
+  <li>2depth=3<2009-02-13</li> 
+  <li>6depth=3<60</li> 
+  <li>3depth=32010-10-06 2017-04-05</li> 
 </ul>
 
 
