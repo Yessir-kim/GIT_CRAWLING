@@ -14,7 +14,12 @@ It is a Python program for mining git storage information, including stars, fork
 
 First, a <strong>"requests"</strong> library should be installed.
 
-1. Window command>
+1. Window command
 > pip install requests
 2. Mac command
 > [Your python3 version] -m pip install requests
+
+Next, run the program.
+
+<img src="images/starting.png" alt="Image Error" width="200">
+Enter the your github ID and Token. Token can get from follow path. <strong>settings -> Developer settings -> Personal access tokens page.</strong>
