@@ -9,3 +9,12 @@ For more information, see:
 ## Introduction
 
 It is a Python program for mining git storage information, including stars, forks, followers, and so on and so forth.
+
+### To run the program
+
+First, a <strong>"requests"</strong> library should be installed.
+
+> Window command
+>> pip install requests
+> Mac command
+>> [Your python3 version] -m pip install requests
