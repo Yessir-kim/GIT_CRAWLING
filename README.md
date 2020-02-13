@@ -30,9 +30,9 @@ Then, Set a condition that you want to search. You must place space unconditiona
 <strong>Example input list</strong> <br />
 <ul>
   <li>1&nbsp&nbspjava</li>
-  <li>2depth=3<2009-02-13</li> 
-  <li>6depth=3<60</li> 
-  <li>3depth=32010-10-06 2017-04-05</li> 
+  <li>2&nbsp&nbsp<2009-02-13</li> 
+  <li>6&nbsp&nbsp<60</li> 
+  <li>3&nbsp&nbsp2010-10-06 2017-04-05</li> 
 </ul>
 
 
