@@ -21,11 +21,11 @@ First, a <strong>"requests"</strong> library should be installed.
 
 Next, run the program.
 
-<img src="images/starting.png" alt="Image Error" width="200">
+<img src="images/starting.PNG" alt="Image Error" width="200">
 Enter the your github ID and Token. Token can get from follow path.<br /> 
 <strong>Path : settings -> Developer settings -> Personal access tokens</strong>
 
-<img src="images/condition.png" alt="Image Error" width="200">
+<img src="images/condition.PNG" alt="Image Error" width="200">
 Then, Set a condition that you want to search. You must place space unconditionally between characters.<br />
 <strong>Example input list</strong> <br />
 <ul>
