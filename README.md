@@ -10,7 +10,7 @@ For more information, see:
 
 It is a Python program for mining git storage information, including stars, forks, followers, and so on and so forth.
 
-### To run the program
+## To run the program
 
 First, a <strong>"requests"</strong> library should be installed.
 
