@@ -23,12 +23,12 @@ Next, run the program.
 
 <img src="images/starting.png" alt="Image Error" width="200">
 Enter the your github ID and Token. Token can get from follow path.<br /> 
-> <strong>settings -> Developer settings -> Personal access tokens page.</strong>
+> <strong>settings -> Developer settings -> Personal access tokens</strong>
 
 <img src="images/condition.png" alt="Image Error" width="200">
 Then, Set a condition that you want to search.<br />
 <strong>Example input</strong> <br />
-> 1 java<br />
+> '1 java'<br />
 > 2 <2009-02-13<br />
 > 6 <60<br />
 > 3 2010-10-06 2017-04-05<br />
