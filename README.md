@@ -14,7 +14,7 @@ It is a Python program for mining git storage information, including stars, fork
 
 First, a <strong>"requests"</strong> library should be installed.
 
-> <Window command>
+1. Window command>
 > pip install requests
-> <Mac command>
+2. Mac command
 > [Your python3 version] -m pip install requests
