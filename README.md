@@ -32,3 +32,5 @@ Then, Set a condition that you want to search. You must place space unconditiona
   <li>6&nbsp&nbsp<60</li> 
   <li>3&nbsp&nbsp2010-10-06&nbsp&nbsp2017-04-05</li> 
 </ul>
+
+As a result, after mining, the URL of GITHUB REPOS is stored in the txt file. (output.txt file)
